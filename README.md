@@ -11,7 +11,7 @@ I'm a web designer and developer who believes code is another form of art. I lov
 
 - 🔭 Currently working on **a Python course turning into a full book**
 - 🌱 Learning **Java, C++ and Flutter**
-- 💬 Ask me about **art, design, or web development**
+- 👩🏻‍💻 Studied Computer Science at the **University of Buenos Aires, Argentina**
 - 🎮 Building a **multiplayer card game with Unreal Engine**
 - ⚡ Fun fact: I love electronics and retro mobile games
   
