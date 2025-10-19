@@ -7,7 +7,7 @@
 **`I believe code is just another form of art.`**
 
 ### 👨‍💻 About Me
-I'm a web designer and developer who believes code is another form of art. I love creating beautiful, functional digital experiences, mixing design, creativity, and technology. Always learning, improving, and bringing ideas to life through code. I have a youtube channel where i share my progress and upload the process. YouTube Channel: [CoDeeBot](https://www.youtube.com/@CoDeeBot).
+I'm a web designer and developer who believes code is another form of art. I love creating beautiful, functional digital experiences, mixing design, creativity, and technology. Always learning, improving, and bringing ideas to life through code. I have a youtube channel where i share my progress and upload the process. I publish that content on my YouTube channel [CoDeeBot](https://www.youtube.com/@CoDeeBot).
 
 - 🔭 Currently working on **a Python course turning into a full book**
 - 🌱 Learning **Java, C++ and Flutter**
