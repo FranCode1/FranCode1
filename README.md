@@ -50,5 +50,5 @@ I believe code is just another form of art.
   <a href="https://www.linkedin.com/in/franco-lugo" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 9
-> “El arte de calidad es el que crea momentos en la gente.” — Alan Moore
+### > “El arte de calidad es el que crea momentos en la gente.” — Alan Moore
 
