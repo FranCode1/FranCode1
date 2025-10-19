@@ -1,5 +1,6 @@
 1
-![Banner]([https://github.com/FranCode1/FranCode1/blob/main/banner.jpg])
+![Banner](https://raw.githubusercontent.com/FranCode1/FranCode1/main/banner.jpg)
+
 2
 I believe code is just another form of art.
 3
