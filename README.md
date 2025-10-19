@@ -1,5 +1,8 @@
-1
-![Banner](https://raw.githubusercontent.com/FranCode1/FranCode1/main/banner.gif)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FranCode1/FranCode1/main/banner.gif" width="100%" />
+</p>
+
 
 2
 I believe code is just another form of art.
