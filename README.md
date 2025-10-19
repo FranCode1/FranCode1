@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... //instagram or youtube
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... //i like electronics
+-- Latest videos
+
+Estructura:
+- Welcome to My Github
+- BANNER
+- Catchfrase
+- Programm Languages
+- My Projects (with gif)
+- Working On Projects (with gif)
+- About Me
 -->
