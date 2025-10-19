@@ -1,5 +1,5 @@
 1
-![Banner](https://your-banner-link.com/banner.png)
+![Banner]([https://your-banner-link.com/banner.png](https://github.com/FranCode1/FranCode1/blob/main/banner.jpg))
 2
 I believe code is just another form of art.
 3
