@@ -14,20 +14,6 @@ I believe code is just another form of art.
 - 🎮 Building a **multiplayer card game with Unreal Engine**
 - ⚡ Fun fact: I love electronics and retro mobile games
 
-<!--
-1
-![Banner](https://your-banner-link.com/banner.png)
-2
-🎨 Designer at heart, 💻 developer by trade.  
-I believe code is just another form of art.
-3
-### 👨‍💻 About Me
-- 🔭 Currently working on **a Python course turning into a full book**
-- 🌱 Learning **Java, C++ and Flutter**
-- 💬 Ask me about **art, design, or web development**
-- 🎮 Building a **multiplayer card game with Unreal Engine**
-- ⚡ Fun fact: I love electronics and retro mobile games
-4
 ### 🧠 Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,python,cpp,java,arduino,figma,git" />
@@ -65,6 +51,4 @@ I believe code is just another form of art.
 </p>
 9
 > “El arte de calidad es el que crea momentos en la gente.” — Alan Moore
-
--->
 
