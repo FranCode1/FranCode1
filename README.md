@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FranCode1/FranCode1/main/banner.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/FranCode1/FranCode1/main/logo.gif" width="100%" />
 </p>
 
 
