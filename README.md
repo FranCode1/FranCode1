@@ -1,8 +1,7 @@
 # RoBeeBot
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FranCode1/FranCode1/main/banner.jpg" width="70%" />
+  <img src="https://raw.githubusercontent.com/FranCode1/FranCode1/main/banner.jpg" width="65%" />
 </p>
-
 
 **`I believe code is just another form of art.`**
 
@@ -64,6 +63,11 @@ I'm a web designer and developer who believes code is another form of art. I lov
 ### 🔥 Currently Working On
 - 📱 Flutter app for schedule management and reports
 - 🧩 Expanding my C++ and Unreal Engine projects
+
+### 📺 Latest Videos
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
   
 
 ### 📊 GitHub Stats
