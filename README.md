@@ -1,6 +1,6 @@
 # RoBeeBot
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FranCode1/FranCode1/main/logo.gif" width="20%" />
+  <img src="https://raw.githubusercontent.com/FranCode1/FranCode1/main/banner.jpg" width="20%" />
 </p>
 
 
