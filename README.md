@@ -1,5 +1,5 @@
 1
-![Banner](https://raw.githubusercontent.com/FranCode1/FranCode1/main/banner.jpg)
+![Banner](https://raw.githubusercontent.com/FranCode1/FranCode1/main/banner.gif)
 
 2
 I believe code is just another form of art.
